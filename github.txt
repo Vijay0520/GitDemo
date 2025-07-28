@@ -1,0 +1,12 @@
+git config --global user.name "Vijay0520"
+git config --global user.email "vijaykumargoudagouda@gmail.com"
+
+mandatory commands:
+>> git init
+>> git remote add origin https://github.com/Vijay0520/GitDemo.git
+git pull origin main
+git status
+git add .
+git status
+git commit -m "commit message"
+git push
